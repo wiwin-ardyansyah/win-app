@@ -1,0 +1,17 @@
+install Node.js
+install whatsapp-web.js     => npm install whatsapp-web.js
+install qrcode-terminal     => npm install qrcode-terminal
+install express             => npm install express
+install socket.io           => npm install socket.io
+install qrcode              => npm install qrcode
+install nodemon             => npm install -g nodemon
+install http                => npm install http
+install express-validator   => npm install express-validator
+install express-fileupload  => npm install express-fileupload
+install axios  		        => npm install axios
+install heroku              => npm install -g heroku
+
+
+
+mendaftarkan ke website Heroku 'dashboard.heroku.com' untuk mengkoneksikan server WA ke internet
+pass Heroku : W1w1nard!
